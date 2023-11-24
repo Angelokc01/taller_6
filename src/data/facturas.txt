@@ -1,0 +1,19 @@
+
+[ID: 0, CLIENTE: 2, DIRECCION CLIENTE: 2
+(Combo: combo corral queso
+corral queso: 16000
+papas medianas: 5500
+gaseosa: 5000
+Precio total 'sin descuento': 26500, Precio total 'con descuento': 23850, Precio neto: 19319, PrecioIva: 4531)
+PRECIO TOTAL: 23850, PRECIO NETO 19319, IVA: 4531];
+[ID: 1, CLIENTE: 33, DIRECCION CLIENTE: 33
+(Combo: combo corral queso
+corral queso: 16000
+papas medianas: 5500
+gaseosa: 5000
+Precio total 'sin descuento': 26500, Precio total 'con descuento': 23850, Precio neto: 19319, PrecioIva: 4531)
+(Nombre producto ajustado: corral pollo, precio total: 15000.0, Precio neto: 12150.0, Precio Iva: 2850.0)
+PRECIO TOTAL: 38850, PRECIO NETO 31469, IVA: 7381];
+[ID: 2, CLIENTE: ad, DIRECCION CLIENTE: 34s n 12
+(Nombre producto: corralita, Precio total: 13000, Precio neto: 10530.0, Precio Iva: 2470.0)
+PRECIO TOTAL: 13000, PRECIO NETO 10530, IVA: 2470];
